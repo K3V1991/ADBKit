@@ -16,18 +16,15 @@
 
 ## NFO:
 * Android Debug Bridge & Fastboot updated to latest v1.0.41 (Version 33.0.1-8253317, March 2022)
-<br />
 
 ## Features:
 * Pure ADB (Android Debug Bridge)
 * Open CMD.bat to easily open a Command Prompt
 * Only 5.87MB (compressed 2.73MB)
-<br />
 
 ## Requirements:
 * Windows OS
 * USB Driver for your Device or Universal ADB Driver (Included in the Installer)
-<br />
 
 ## Developer Options & USB Debugging:
 1. Install the USB Driver for your Phone or Universal Adb Driver.
@@ -39,7 +36,6 @@
 7. Once you’re in the Command Prompt, enter the following Command: adb devices
 8. System is starting the ADB Daemon (If this is your first Time running ADB, you will see a Prompt on your Phone asking you to authorize a Connection with the Computer. Click OK.).
 9. Succesful enabled USB Debugging.
-<br />
 
 ## Unable to connect to ADB:
 1. AMD Bug? - https://forum.xda-developers.com/t/fix-fastboot-issues-on-ryzen-based-pcs.4186321/
@@ -51,7 +47,6 @@
 and once it says "waiting for device" plug in your USB Cable
 7. Windows: Click "Change advanced power setting" on your chosen Plan and expand "USB Settings". Under "USB Settings" Section, expand "USB selective suspend setting" and change it to "Disabled" for On Battery and Plugged In.
 8. Try another PC
-<br />
 
 ## Usage:
 1. Download latest Release
