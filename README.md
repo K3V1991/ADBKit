@@ -19,7 +19,7 @@
 
 ## Features:
 * Pure ADB (Android Debug Bridge)
-* Open CMD.bat to easily open a Command Prompt
+* Double click the CMD.bat to easily open a Command Prompt
 * Only 5.87MB (compressed 2.73MB)
 
 ## Requirements:
