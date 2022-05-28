@@ -15,7 +15,7 @@
 <br />
 
 ## NFO:
-* Android Debug Bridge & Fastboot updated to latest v1.0.41 (Version 33.0.1-8253317, March 2022)
+* Android Debug Bridge & Fastboot updated to latest v1.0.41 (Version 33.0.2-8557947, May 2022)
 
 ## Features:
 * Pure ADB (Android Debug Bridge)
