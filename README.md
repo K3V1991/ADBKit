@@ -15,16 +15,22 @@
 <br />
 
 ## NFO:
-* Android Debug Bridge & Fastboot updated to latest v1.0.41 (Version 34.0.0-9570255, February 2023)
+* Android Debug Bridge updated to latest v1.0.41 (Version 34.0.0-9570255, February 2023)
 
 ## Features:
 * Pure ADB (Android Debug Bridge)
 * Double click the CMD.bat to easily open a Command Prompt
-* Only 5.87MB (compressed 2.73MB)
 
 ## Requirements:
 * Windows OS
-* USB Driver for your Device or Universal ADB Driver
+* USB Driver for your Device or [Universal ADB Driver](https://adb.clockworkmod.com/)
+
+## Usage:
+1. Download latest Release
+2. Extract the Zip Archive
+3. Double click on Open CMD.bat
+4. You should see a Command Window open, now you can use ADB Commands
+<br />
 
 ## Enable Developer Options & USB Debugging:
 <details>
@@ -57,9 +63,3 @@ adb devices
 7. Windows: Click "Change advanced power setting" on your chosen Plan and expand "USB Settings". Under "USB Settings" Section, expand "USB selective suspend setting" and change it to "Disabled" for On Battery and Plugged In
 8. Try another PC
 </details>
-
-## Usage:
-1. Download latest Release
-2. Extract the Zip Archive
-3. Double click on Open CMD.bat
-4. You should see a Command Window open, now you can use ADB Commands
